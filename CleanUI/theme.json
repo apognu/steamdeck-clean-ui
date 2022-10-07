@@ -1,0 +1,16 @@
+{
+  "name": "Clean UI",
+  "version": "v1.0",
+  "author": "apognu",
+  "manifest_version": 3,
+  "target": "System-Wide",
+  "description": "Lightweight and opinionated theme to improve appearance.",
+  "inject": {
+    "default.css": [
+      "MainMenu",
+      "QuickAccess",
+      "SP"
+    ]
+  }
+}
+

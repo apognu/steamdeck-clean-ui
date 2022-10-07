@@ -1,0 +1,481 @@
+body {
+  font-size: 12px;
+}
+
+.header_HeaderItem_2HnVd {
+  font-size: 12px;
+}
+
+#header_profile {
+  padding-right: 0;
+}
+
+.avatar {
+  border-radius: 32px;
+}
+
+.avatarStatus {
+  visibility: hidden;
+}
+
+.searchbar_SearchFieldBackground_3F4YR,
+.searchbar_WhiteBackground_1l8js.searchbar_WhiteBackground_1l8js {
+  background: transparent;
+}
+
+.searchbar_SearchContainer_161Tj.searchbar_ForceExpanded_1bmuJ:not(.gpfocuswithin) .searchbar_SearchFieldBackground_3F4YR.searchbar_WhiteBackground_1l8js {
+  background: black;
+}
+
+.searchbar_SearchContainer_161Tj.searchbar_ForceExpanded_1bmuJ .searchbar_SearchBox_2a1-s {
+  color: white;
+  caret-color: white;
+}
+
+.searchbar_SearchBox_2a1-s {
+  font-size: 12px;
+}
+
+.basicgamecarousel_CarouselCapsuleBackgroundGlow_1H3Kf {
+  display: none;
+}
+
+.gamepadhomewhatsnew_EventType_1f0dZ {
+  margin-bottom: 8px;
+}
+
+.basicgamecarousel_BasicGameCarouselItemMediaContainer_1HIFN {
+  border-radius: 4px;
+}
+
+/* Game animation */
+
+.focusring_FocusRing_1IZrQ {
+  animation: none;
+  box-shadow: none !important;
+  outline: none;
+}
+
+.BasicUI .appportrait_LibraryItemBox_WYgDg.Focusable:focus {
+  animation: none;
+  box-shadow: none;
+  outline: none;
+}
+
+.BasicUI .appportrait_LibraryItemBox_WYgDg::after {
+  background: transparent;
+}
+
+/* Game titles */
+
+.marquee_Content_2ADpT {
+  font-size: 16px;
+}
+
+.basicgamecarousel_SubMessage_1BtXg {
+  font-size: 10px;
+}
+
+/* More games box */
+
+.libraryassetimage_Visibility_3d_bT {
+  border-radius: 6px;
+}
+
+.Panel.Focusable:not(.gpfocus) {
+  transition: transform 0.2s cubic-bezier(0.16, 0.86, 0.43, 0.99);
+}
+
+.Panel.Focusable.gpfocus {
+  transform: scale(1.04);
+  transition: transform 0.2s cubic-bezier(0.16, 0.86, 0.43, 0.99);
+}
+
+.deckverified_CompatibilityDetailsInterior_NoScroll_2MFHa .Panel.Focusable.gpfocus {
+  transform: scale(1.0);
+}
+
+/* Tab pills */
+
+.gamepadtabbedpage_Tab_3eEbS {
+  margin: 0 4px;
+  border-radius: 4px;
+}
+
+.actionbuttonlegenditem_ActionButtonLegend_Mbyhb .actionbuttonlegenditem_ActionButtonLabel_31Jnn {
+  font-size: 10px;
+}
+
+/* Recently completed downloads */
+
+.recentlycompleted_TopSection_2wVB- {
+  border-radius: 4px 4px 0 0;
+}
+
+.recentlycompleted_BottomSection_3LyF6 {
+  border-radius: 0 0 4px 4px;
+}
+
+/* Special offers */
+
+.marketingmessages_Image_3ogNR {
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+/* News box */
+
+.gamepadhomewhatsnew_EventImageWrapper_XLJ9p {
+  border-radius: 6px 6px 0 0;
+}
+
+.gamepadhomewhatsnew_Darkener_1n_1X {
+  display: none;
+}
+
+.gamepadhomewhatsnew_EventInfo_6TGe7 {
+  border-radius: 0 0 6px 6px;
+}
+
+.Focusable:after {
+  background: transparent;
+  border: 0;
+}
+
+/* Collections */
+
+.BasicUI .allcollections_Collection_3IWn- {
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+/* Game banner art */
+
+.sharedappdetailsheader_TopCapsule_2meE3,
+.sharedappdetailsheader_TopCapsule_2meE3.sharedappdetailsheader_FallbackArt_kgNCR {
+  height: calc(100vh - 120px);
+}
+
+/* Popular among friend */
+
+.gamecapsule_GameCapsule_fXdhj {
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+/* Community */
+
+.BasicUI .appdetailscommunityfeed_CommunityItem_3QS6O {
+  border-radius: 4px;
+}
+
+.BasicUI .appdetailscommunityfeed_CommunityItem_3QS6O img {
+  border-radius: 4px;
+}
+
+.BasicUI .appdetailscommunityfeed_CommunityItem_3QS6O img.gpfocuswithin {
+  transform: scale(1.04);
+  transition: transform 0.2s cubic-bezier(0.16, 0.86, 0.43, 0.99);
+}
+
+/* Verified feedback */
+
+.basicappdetailssectionstyler_DeckVerifiedFeedbackContainer_3Y8xV {
+  padding: 4px;
+  border-radius: 4px;
+}
+
+.basicappdetailssectionstyler_DeckVerifiedFeedbackButton_2F-oC {
+  border-radius: 6px;
+}
+
+.DialogButton {
+  border-radius: 6px;
+}
+
+/* Game info */
+
+.appdetailsprimarylinkssection_Anchor_DY4_w.gpfocus .appdetailsprimarylinkssection_Link_1b6LY {
+  background: white;
+}
+
+.appdetailsprimarylinkssection_Anchor_DY4_w.gpfocus .appdetailsprimarylinkssection_Link_1b6LY .appdetailsprimarylinkssection_Text_2sNDj {
+  color: #36373b;
+}
+
+/* Keyboard */
+
+.virtualkeyboard_KeyboardKey_2KhPX {
+  border-radius: 4px;
+}
+
+.virtualkeyboard_VirtualKeyboardContainer_33MO2 .Panel.Focusable.gpfocus {
+  transform: scale(1.0);
+}
+
+/* Popup menu */
+
+.basiccontextmenu_contextMenuContents_TBSbv {
+  overflow: visible;
+}
+
+.contextMenuItem {
+  margin-bottom: 3px;
+  border-radius: 4px;
+}
+
+.BasicUIContextMenu .library_ContextMenuAction_Z5iAX {
+  border-radius: 4px;
+}
+
+/* Settings */
+
+.gamepadpagedsettings_PagedSettingsDialog_PageListItem_1ix7r {
+  font-size: 12px;
+  margin-left: 20px;
+  border-radius: 8px 0 0 8px;
+  font-size: 12px;
+  padding: 8px 12px;
+}
+
+.Panel.gamepadpagedsettings_PagedSettingsDialog_PageListItem_1ix7r:focus {
+  transform: scale(1.0);
+  transition: none;
+}
+
+.gamepadpagedsettings_PagedSettingsDialog_PageListItem_1ix7r.gamepadpagedsettings_Active_22LLB {
+  transform: scale(1.0);
+}
+
+.gamepadpagedsettings_PagedSettingsDialog_PageListItem_1ix7r:focus {
+  margin-left: 20px;
+  border-radius: 8px 0 0 8px;
+  font-size: 12px;
+  padding: 8px 12px;
+}
+
+.gamepaddialog_FieldLabel_3b0U- {
+  font-size: 12px;
+}
+
+/* Game details */
+
+.basicappdetailssectionstyler_DeckVerifiedFeedbackContainer_3Y8xV {
+  padding: 8px 4px;
+}
+
+.basicappdetailssectionstyler_DeckVerifiedFeedbackQuestion_r0XD8 {
+  width: 100%;
+}
+
+.basicappdetailssectionstyler_DeckVerifiedFeedbackContainer_3Y8xV .Focusable {
+  padding: 6px 18px;
+}
+
+.appactivityday_PartnerEventTextOnly_3QRf-,
+.appactivityday_PartnerEventTextOnly_23QRf- {
+  border-image: none;
+  background: transparent;
+  box-shadow: none;
+}
+
+.appactivityday_EventHeadline_QCKBq {
+  border-radius: 6px 6px 0 0;
+}
+
+.BasicUI .appactivityday_Event_UVeN0 .appactivityday_EventBody_NEMXh {
+  box-shadow: none;
+  border-radius: 0 0 6px 6px;
+}
+
+.personanameandstatus_playerName_r62qz {
+  font-size: 14px;
+}
+
+.appactivityday_PartnerEventTextOnly_3QRf- {
+  background: transparent;
+  box-shadow: none;
+}
+
+.appactivityday_PartnerEvent_1AYE1 {
+  background: transparent;
+  border-image: none;
+  border: 0;
+}
+
+.appactivityday_PartnerEventMediumImage_Container_1HZy7 {
+  background: #ACB2C924;
+  border-radius: 6px;
+}
+
+.BasicUI .appdetailssection_AppDetailsSectionContainer_31ptF {
+  overflow: hidden;
+  border-radius: 6px;
+}
+
+.BasicUI .appdetailssection_Highlight_38t1m {
+  border-radius: 6px 6px 0 0;
+}
+
+.deckverified_CompatibilityDetailsContainer_1eAfS {
+  overflow: visible;
+}
+
+/* Downloads */
+
+.header_HeaderDownloadContainer_2ssr3 .header_HeaderAppPortraitContainer_1PbL3 .header_HeaderAppPortrait_SB4L7 {
+  margin-bottom: 2px;
+}
+
+.downloads_SectionItem_1VNuY .downloads_Name_35eOQ {
+  font-size: 14px;
+}
+
+/* Quick access menu */
+
+.quickaccesscontrols_PanelSectionTitle_2iFf9 {
+  font-size: 12px;
+}
+
+.gamepadslider_SliderHandle_2yVKj {
+  width: 18px;
+  height: 18px;
+  top: 3px;
+  transform: translateX(-4px);
+}
+
+.quickaccessmenu_Title_34nl5 {
+  font-size: 16px;
+}
+
+.quickaccessmenu_Tab_1S76C svg {
+  width: 18px;
+  height: 18px;
+}
+
+/* Main menu */
+
+.marquee_Content_2ADpT {
+  font-size: 14px;
+}
+
+.mainmenu_ItemIcon_3xZ3Z {
+  width: 16px;
+  height: 16px;
+}
+
+.mainmenu_Item_2w9Tp.mainmenu_Active_10bq5 {
+  transform: scale(1.0);
+}
+
+/* Dialog */
+
+.gamepaddialog_ModalPosition_30VHl>.gamepaddialog_GamepadDialogContent_3joNk {
+  border-width: 1px;
+  border-radius: 6px;
+}
+
+.gamepaddialog_GamepadDialogContent_3joNk .DialogHeader {
+  font-size: 16px;
+}
+
+button.gamepaddialog_Button_1kn70.DialogButton,
+button.gamepaddialog_Button_1kn70.DialogButton:enabled,
+button.gamepaddialog_Button_1kn70.DialogButton:active,
+button.gamepaddialog_Button_1kn70.DialogButton:hover,
+button.gamepaddialog_Button_1kn70.DialogButton:enabled:active:hover {
+  font-size: 14px;
+}
+
+/* Game menu */
+
+.mainmenuapprunning_NavigationColumn_27FEg {
+  margin-left: 0;
+}
+
+.mainmenuapprunning_NavigationMenuItem_1G0K4 {
+  font-size: 14px;
+}
+
+.mainmenuapprunning_NavigationMenuItem_1G0K4.mainmenuapprunning_Active_1jG8i {
+  transform: scale(1.0);
+}
+
+/* Account */
+
+.steamavatar_avatar_1p_Qr.GamepadMode,
+.GamepadMode .steamavatar_avatar_1p_Qr {
+  border-radius: 100%;
+}
+
+button.gamepaddialog_Button_1kn70.DialogButton,
+button.gamepaddialog_Button_1kn70.DialogButton:enabled,
+button.gamepaddialog_Button_1kn70.DialogButton:active,
+button.gamepaddialog_Button_1kn70.DialogButton:hover,
+button.gamepaddialog_Button_1kn70.DialogButton:enabled:active:hover {
+  border-radius: 4px;
+}
+
+/* Friends */
+
+.GamepadMode .personanameandstatus_playerName_1ocG6 {
+  font-size: 12px;
+}
+
+.personanameandstatus_twoLine_GI-2M .personanameandstatus_richPresenceLabel_1whoN {
+  font-size: 10px;
+}
+
+.ChatRoomSpeaker .speaker .speakerName {
+  font-size: 14px;
+}
+
+.msgText {
+  font-size: 12px;
+}
+
+.GamepadMode .speaker .speakerStatus {
+  background-color: transparent !important;
+}
+
+.ChatRoomSpeaker .speaker .speakerAvatar .avatarFrame,
+.ChatMsgSlashEmote .speaker .speakerAvatar .avatarFrame {
+  transform: scale(1.0);
+}
+
+/* Misc. */
+
+.smartscrollcontainer_ScrollToTopButton_1bCHN div {
+  background: black;
+  color: white;
+}
+
+.gamepadtabbedpage_Show_1ZEnd img {
+  width: 24px;
+}
+
+.mainbrowser_URLBar_1CwIx .mainbrowser_URL_2aM-J {
+  font-size: 12px;
+}
+
+.gamepadhomerecommended_PlayNextCarouselSubHeading_2VByW {
+  font-size: 12px;
+}
+
+.updaterfield_UpdateStatusContainer_8OvE2 {
+  margin-right: 8px;
+  ;
+}
+
+.updaterfield_UpdaterFieldStatusApplying_Y36on .updaterfield_TextContainer_pW4WL {
+  font-size: 12px;
+}
+
+.applaunchingdetails_LaunchStatus_1ZWPD,
+.applaunchingdetails_ConfigurationHeader_30C5a {
+  font-size: 12px;
+}
+
+.appdetailstradingcardssection_TradingCardCarouselItem_CoQxi .appdetailstradingcardssection_Owned_2uDS7.gpfocus {
+  transform: scale(1.04) !important;
+}
