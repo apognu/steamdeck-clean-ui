@@ -203,16 +203,6 @@ body {
   color: #36373b;
 }
 
-/* Keyboard */
-
-.virtualkeyboard_KeyboardKey_2KhPX {
-  border-radius: 4px;
-}
-
-.virtualkeyboard_VirtualKeyboardContainer_33MO2 .Panel.Focusable.gpfocus {
-  transform: scale(1.0);
-}
-
 /* Popup menu */
 
 .basiccontextmenu_contextMenuContents_TBSbv {

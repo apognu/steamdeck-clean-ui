@@ -11,6 +11,18 @@
       "QuickAccess",
       "SP"
     ]
+  },
+  "patches": {
+    "Keyboard theme": {
+      "type": "checkbox",
+      "values": {
+        "No": {},
+        "Yes": {
+          "keyboard.css": [
+            "SP"
+          ]
+        }
+      }
+    }
   }
 }
-
